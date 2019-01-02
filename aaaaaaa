@@ -1,0 +1,8 @@
+//META{"name":"02 Theme by Ruben","description":"Darling In the Franxx theme","author":"Ruben7173","version":"3.0"}*//{}
+
+@import url(https://raw.githack.com/xenomam/aa/master/code.css);
+/**default https://raw.githack.com/Ruben7173/Ruben7173.github.io/master/BetterDiscord-Themes/Darling-in-The-Franxx/code.css**/
+
+/**BACKGROUND**/
+.appMount-3VJmYg{background:url('https://cdn.discordapp.com/attachments/522224256717815829/529770186409115688/1125435_sailor-moon-wallpaper-hd.png') center/cover no-repeat}
+/* default wallpaper URL: https://images.alphacoders.com/898/898775.jpg */
